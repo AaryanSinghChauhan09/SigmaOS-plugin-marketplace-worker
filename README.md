@@ -17,3 +17,8 @@ Please use: https://github.com/AaryanSinghChauhan09/SigmaOS-plugin-marketplace-t
 ---
 
 Archived: 2026-10-15
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-plugin-marketplace-worker) - Full Wiki documentation for all SigmaOS components
